@@ -11,6 +11,6 @@ app.get('/', (req, res) => {
   });
 })
 
-app.listen(6003, () => {
-  console.log("Shopping server is running on Port Number: 6003");
+app.listen(8003, () => {
+  console.log("Shopping server is running on Port Number: 8003");
 })
